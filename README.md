@@ -1,4 +1,4 @@
-# Comparing error using different degrees of approximation
+# Comparing error using different order of approximations
 In this we are going to compare the error generated due to different order of approximations.\
 
 The function is\
