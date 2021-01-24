@@ -8,6 +8,6 @@ I used the 1st, 2nd and 4th order of approximation for the above mentioned funct
 The computation of the function was done at x=pi/3 and gridspace of dx= pi/20.\
 
 The Result is\
-<img src="https://user-images.githubusercontent.com/74448981/105624113-33381580-5e45-11eb-9579-03190fea36e1.JPG" height="600" width="800">
+<img src="https://user-images.githubusercontent.com/74448981/105629592-d8fd7b80-5e69-11eb-868e-8784008a71e2.jpg" height="600" width="800">
 
 From the result we can clearly see that for the same gridspace(dx) the error decreases as we use higher order approximation methods.
