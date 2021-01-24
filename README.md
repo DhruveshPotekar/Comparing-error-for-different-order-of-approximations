@@ -1,4 +1,4 @@
-# Error-comparison-using-different-degrees-of-order-for-same-grid-size
+# Comparing error using different degrees of approximation
 In this we are going to compare the error generated due to different order of approximations.\
 
 The function is\
